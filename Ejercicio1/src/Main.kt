@@ -1,6 +1,6 @@
 import kotlin.math.*
 fun main() {
-    println("=== PRÁCTICA 01 JEANPIERRE MOTTA [XXX-XXX] Y CHRISTIAN GUERRERO [22200211] ===\n")
+    println("=== PRÁCTICA 01 JEAN PIERRE MOTTA [22200030] Y CHRISTIAN GUERRERO [22200211] ===\n")
     println("=== PREGUNTA 1: MEJOR ALUMNO Y SUSPENDIDOS ===\n")
 
     // Creamos alumnos
