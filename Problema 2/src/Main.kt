@@ -13,6 +13,7 @@ class Solucion {
 fun main() {
     // Realizar un algoritmo en que me permita hallar la suma de los n números consecutivos.
     val solucion = Solucion(5)
-    println(solucion.sumaNConsecutivos())
+    println("\n=== PREGUNTA 2: Suma de los primeros N términos ===\n")
+    println("La suma de los 5 primeros numeros consecutivos es: " + solucion.sumaNConsecutivos())
 
 }

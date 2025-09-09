@@ -12,5 +12,6 @@ fun main() {
     val horas = tiempoHoras.toInt()
     val minutos = ((tiempoHoras - horas) * 60).toInt()
 
+    println("\n=== PREGUNTA 4: Tiempo de Encuentro ===\n")
     println("El tiempo será de $horas horas y $minutos minutos")
 }
